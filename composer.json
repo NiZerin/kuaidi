@@ -1,5 +1,5 @@
 {
-    "name": "NiZerin/kuaidi",
+    "name": "nizerin/kuaidi",
     "description": "A wrapper library of multiple free express tracking APIs in China.",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     },
     "authors": [
         {
-            "name": "NiZerin",
+            "name": "nizerin",
             "email": "nizerin98@gmail.com"
         }
     ],
