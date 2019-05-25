@@ -39,7 +39,7 @@ php examples/index.php <运单编号> [快递公司名称]
 ### 0. 安装
 
 ```bash
-composer require nizerin/kuaidi
+composer require nizerin/kuaidi:dev-master
 ```
 
 ### 1. 创建运单
