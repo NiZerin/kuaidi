@@ -2,7 +2,7 @@
 
 📦 集成「快递100」、「快递网」、「快递鸟」三家快递查询接口，并统一调用方式。
 
-❤️ 本项目 [GitHub](https://github.com/NiZerin/kuaidi) / [Gitee(码云)](https://gitee.com/NiZerin/kuaidi)。
+❤️ 本项目 [GitHub](https://github.com/NiZerin/kuaidi)。
 
 [![Build Status](https://travis-ci.org/NiZerin/kuaidi.svg?branch=master)](https://travis-ci.org/NiZerin/kuaidi)
 [![StyleCI](https://github.styleci.io/repos/136556586/shield?branch=master)](https://github.styleci.io/repos/136556586)
